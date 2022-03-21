@@ -1,5 +1,6 @@
 # Hospital Service Pricing Scraper
 
-Below is an animation of 
+Below is a demo of the bot scraping cash/insurance prices for services at over 500 hospitals throughout NYC.
 
-<video src='./demo.mp4' width=180/>
+https://user-images.githubusercontent.com/42814002/159195873-e0bb2fcc-fc9d-4935-a118-fd4c7cde74cf.mp4
+
